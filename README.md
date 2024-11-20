@@ -19,7 +19,7 @@ Specialties:
 Website: 
 * 	Coming Soon 🌐
 
-💡 Skills and Technologies
+💡 Skills and Technologies:
 * 	Languages: Python, Java, HTML, CSS, and more. 💬
 * 	Frameworks: React, Flask. 🧵
 * 	Tools: Git. 🛠️
@@ -35,7 +35,7 @@ I’m always excited to contribute to innovative projects, especially in:
 * 	Game Development: Design, programming, prototyping. 🎨💻
 * 	Full-Stack Web Development: Creating dynamic applications. 🌐🚀
 * 	Productivity Tools: Developing creative software solutions. 🎨💡
-* 	Open-Source Projects
+* 	Open-Source Projects.
 
 📈 Why Follow Me?
 * 	Tech Insights: Explore software and game development tips. 💡📚
