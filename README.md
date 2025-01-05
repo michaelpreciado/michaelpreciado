@@ -7,10 +7,7 @@ About Me🚀
 * 	Goals: Becoming a Software Engineer while expanding knowledge across diverse fields. 📚🌍
 * 	Collaboration: Always eager to connect with developers, designers, and creators. 🤝
 * 	Contact: Reach me at mpreciado1997@gmail.com or on X.com. 📧
-
-💻 3PM Software Studios:
-As the founder and lead developer of 3PM Software, I’m committed to delivering innovative, scalable, and sustainable tech solutions. 🌱
-
+* 
 Specialties:
 * 	Custom Software Development: Tailored solutions for unique needs.
 * 	Tools and Utilities: Streamlining workflows with practical tools.
