@@ -25,40 +25,21 @@ michael@friday:~$ uname -a
 > Arch Linux · RTX 5080 · enough GPUs to keep Ollama happy
 ```
 
-<!-- ───────────────────────────  BUILD  ─────────────────────────── -->
+<!-- ───────────────────────────  WHO  ─────────────────────────── -->
 
-## `~/` what I build
+## `~/` who I am
 
-```diff
-+ Local AI command centers   FRIDAY. Agents, memory & automation on my own hardware
-+ Robotic systems            OpenClaw. Dual 6-DOF arms, ESP32-S3, real motion control
-+ Polished web tools         React/Next.js apps that look good and survive real traffic
-+ Automation infrastructure  Bots, pipelines & integrations that actually keep running
-```
+I'm an **AI engineer and robotics builder** with a stubborn belief: the best
+systems are the ones you actually own. I teach machines to think locally —
+agents, memory, and motion control running on my own hardware instead of
+someone else's cloud.
 
-<!-- ───────────────────────────  NOW  ─────────────────────────── -->
+I like the full stack of it. Firmware close to the metal, models close to the
+silicon, and interfaces clean enough that the complexity disappears. If it can
+run self-hosted, I'll make it run self-hosted.
 
-## `~/` currently shipping
-
-<details open>
-<summary><b>🤖 FRIDAY</b> — a local-first AI agent crew</summary>
-
-<br>
-
-Telegram gateway · Obsidian vault memory · stock-trading bots · a Mission Control dashboard.
-Think Jarvis, but self-hosted and opinionated. Everything stays on my own metal.
-
-</details>
-
-<details>
-<summary><b>🦾 OpenClaw</b> — dual robotic arm on ESP32-S3</summary>
-
-<br>
-
-12 servos · time-division-multiplexed LEDC · FastAPI relay · voice control over Tailscale.
-Hardware I designed, firmware I wrote, software I stitched together.
-
-</details>
+When I'm not building, I'm studying **AI Engineering at Wilmington University**,
+shooting photography, and chasing the kind of work that outlives the hype cycle.
 
 <!-- ───────────────────────────  STACK  ─────────────────────────── -->
 
@@ -83,26 +64,6 @@ Hardware I designed, firmware I wrote, software I stitched together.
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=michaelpreciado&hide_border=true&background=0D1117&stroke=1E90FF&ring=1E90FF&fire=1E90FF&currStreakLabel=1E90FF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9" alt="streak" />
 
 </div>
-
-<!-- ───────────────────────────  OSS  ─────────────────────────── -->
-
-## `~/` open source
-
-| Project | What it is |
-|---------|------------|
-| [**FRIDAY**](https://github.com/michaelpreciado/friday) | Local AI agent system |
-| [**OpenClaw**](https://github.com/michaelpreciado/openclaw) | Dual 6-DOF robotic arm |
-| [**Planter**](https://github.com/michaelpreciado/Planter) | Plant tracker PWA |
-| [**Photography Portfolio**](https://github.com/michaelpreciado/photography-portfolio) | Production portfolio site |
-| [**Landing Page**](https://github.com/michaelpreciado/Landing_page) | Personal website |
-| [**Business Page**](https://github.com/michaelpreciado/business-page) | Preciado Tech landing |
-
-<!-- ───────────────────────────  STUDY  ─────────────────────────── -->
-
-## `~/` currently studying
-
-AI Engineering at **Wilmington University**. This week: data preparation for machine learning.
-Building systems that learn — while keeping everything on my own metal.
 
 <div align="center">
 
