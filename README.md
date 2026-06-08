@@ -17,12 +17,12 @@
 
 ```console
 michael@friday:~$ whoami
-> AI engineer · robotics builder · local-first maximalist
+> AI engineer · robotics enthusiast · local-first maximalist · open source ftw
 michael@friday:~$ cat /etc/motd
-> Agents, memory, and motion control running on hardware I own.
-> Jarvis, but self-hosted and opinionated.
+> Agents, memory, and a business running on hardware I own.
+> Jarvis and Friday, but self-hosted and opinionated.
 michael@friday:~$ uname -a
-> Arch Linux · RTX 5080 · enough GPUs to keep Ollama happy
+> Arch Linux and enough GPUs to keep Ollama happy
 ```
 
 <!-- ───────────────────────────  BUILD  ─────────────────────────── -->
