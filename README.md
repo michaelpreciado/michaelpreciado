@@ -3,15 +3,15 @@
 <!-- ───────────────────────────  HERO  ─────────────────────────── -->
 
 <a href="https://michael-preciado.com">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2800&pause=900&color=00E5A0&center=true&vCenter=true&width=720&height=70&lines=Michael+Preciado;AI+engineer+%26+robotics+builder;Teaching+machines+to+think+locally;Self-hosted+%3E+the+hype+cycle" alt="Michael Preciado" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2800&pause=900&color=1E90FF&center=true&vCenter=true&width=720&height=70&lines=Michael+Preciado;AI+engineer+%26+robotics+builder;Teaching+machines+to+think+locally;Self-hosted+%3E+the+hype+cycle" alt="Michael Preciado" />
 </a>
 
 `˚₊‧ ⌁ ‧₊˚  built on my own metal  ˚₊‧ ⌁ ‧₊˚`
 
-[![Website](https://img.shields.io/badge/michael--preciado.com-00E5A0?style=flat-square&logo=vercel&logoColor=0D1117)](https://michael-preciado.com)
-[![X](https://img.shields.io/badge/@preciadotech-0D1117?style=flat-square&logo=x&logoColor=00E5A0)](https://x.com/preciadotech)
+[![Website](https://img.shields.io/badge/michael--preciado.com-1E90FF?style=flat-square&logo=vercel&logoColor=0D1117)](https://michael-preciado.com)
+[![X](https://img.shields.io/badge/@preciadotech-0D1117?style=flat-square&logo=x&logoColor=1E90FF)](https://x.com/preciadotech)
 [![YouTube](https://img.shields.io/badge/@preciadotech-0D1117?style=flat-square&logo=youtube&logoColor=FF0000)](https://youtube.com/@preciadotech)
-![Profile views](https://komarev.com/ghpvc/?username=michaelpreciado&style=flat-square&color=00E5A0&label=visitors)
+![Profile views](https://komarev.com/ghpvc/?username=michaelpreciado&style=flat-square&color=1E90FF&label=visitors)
 
 </div>
 
@@ -36,51 +36,14 @@ michael@friday:~$ uname -a
 + Automation infrastructure  Bots, pipelines & integrations that actually keep running
 ```
 
-<!-- ───────────────────────────  NOW  ─────────────────────────── -->
-
-## `~/` currently shipping
-
-<details open>
-<summary><b>🤖 FRIDAY</b> — a local-first AI agent crew</summary>
-
-<br>
-
-Telegram gateway · Obsidian vault memory · stock-trading bots · a Mission Control dashboard.
-Think Jarvis, but self-hosted and opinionated. Everything stays on my own metal.
-
-</details>
-
-<details>
-<summary><b>🦾 OpenClaw</b> — dual robotic arm on ESP32-S3</summary>
-
-<br>
-
-12 servos · time-division-multiplexed LEDC · FastAPI relay · voice control over Tailscale.
-Hardware I designed, firmware I wrote, software I stitched together.
-
-</details>
-
-<!-- ───────────────────────────  STACK  ─────────────────────────── -->
-
-## `~/` stack
-
-![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=3776AB)
-![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=3178C6)
-![React](https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=nextdotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=flat-square&logo=fastapi&logoColor=009688)
-![Ollama](https://img.shields.io/badge/Ollama-0D1117?style=flat-square&logo=ollama&logoColor=white)
-![MicroPython](https://img.shields.io/badge/MicroPython-0D1117?style=flat-square&logo=micropython&logoColor=white)
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-0D1117?style=flat-square&logo=arch-linux&logoColor=1793D1)
-
 <!-- ───────────────────────────  STATS  ─────────────────────────── -->
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=michaelpreciado&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E5A0&icon_color=00E5A0&text_color=C9D1D9" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelpreciado&layout=compact&hide_border=true&bg_color=0D1117&title_color=00E5A0&text_color=C9D1D9" alt="top langs" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=michaelpreciado&show_icons=true&hide_border=true&bg_color=0D1117&title_color=1E90FF&icon_color=1E90FF&text_color=C9D1D9" alt="stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelpreciado&layout=compact&hide_border=true&bg_color=0D1117&title_color=1E90FF&text_color=C9D1D9" alt="top langs" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/user=michaelpreciado&hide_border=true&background=0D1117&stroke=00E5A0&ring=00E5A0&fire=00E5A0&currStreakLabel=00E5A0&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9" alt="streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/user=michaelpreciado&hide_border=true&background=0D1117&stroke=1E90FF&ring=1E90FF&fire=1E90FF&currStreakLabel=1E90FF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9" alt="streak" />
 
 </div>
 
