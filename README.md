@@ -36,41 +36,23 @@ michael@friday:~$ uname -a
 + Automation infrastructure  Bots, pipelines & integrations that actually keep running
 ```
 
-<!-- ───────────────────────────  STATS  ─────────────────────────── -->
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=michaelpreciado&show_icons=true&hide_border=true&bg_color=0D1117&title_color=1E90FF&icon_color=1E90FF&text_color=C9D1D9" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelpreciado&layout=compact&hide_border=true&bg_color=0D1117&title_color=1E90FF&text_color=C9D1D9" alt="top langs" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/user=michaelpreciado&hide_border=true&background=0D1117&stroke=1E90FF&ring=1E90FF&fire=1E90FF&currStreakLabel=1E90FF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9" alt="streak" />
-
-</div>
-
 <!-- ───────────────────────────  OSS  ─────────────────────────── -->
 
 ## `~/` open source
 
 | Project | What it is |
 |---------|------------|
-| [**FRIDAY**](https://github.com/michaelpreciado/friday) | Local AI agent system |
-| [**OpenClaw**](https://github.com/michaelpreciado/openclaw) | Dual 6-DOF robotic arm |
 | [**Planter**](https://github.com/michaelpreciado/Planter) | Plant tracker PWA |
 | [**Photography Portfolio**](https://github.com/michaelpreciado/photography-portfolio) | Production portfolio site |
-| [**Landing Page**](https://github.com/michaelpreciado/Landing_page) | Personal website |
-| [**Business Page**](https://github.com/michaelpreciado/business-page) | Preciado Tech landing |
 
 <!-- ───────────────────────────  STUDY  ─────────────────────────── -->
 
 ## `~/` currently studying
 
-AI Engineering at **Wilmington University**. This week: data preparation for machine learning.
-Building systems that learn — while keeping everything on my own metal.
+Currently learning ml at university and developing projects using llms.
 
 <div align="center">
 
 <br>
-
-`˚₊‧ ⌁ ‧₊˚  Let's build something that outlives the hype cycle.  ˚₊‧ ⌁ ‧₊˚`
 
 </div>
