@@ -80,7 +80,7 @@ Hardware I designed, firmware I wrote, software I stitched together.
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=michaelpreciado&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E5A0&icon_color=00E5A0&text_color=C9D1D9" alt="stats" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelpreciado&layout=compact&hide_border=true&bg_color=0D1117&title_color=00E5A0&text_color=C9D1D9" alt="top langs" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=michaelpreciado&hide_border=true&background=0D1117&stroke=00E5A0&ring=00E5A0&fire=00E5A0&currStreakLabel=00E5A0&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9" alt="streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/user=michaelpreciado&hide_border=true&background=0D1117&stroke=00E5A0&ring=00E5A0&fire=00E5A0&currStreakLabel=00E5A0&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9" alt="streak" />
 
 </div>
 
