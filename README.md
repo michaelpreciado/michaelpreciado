@@ -25,26 +25,6 @@ michael@friday:~$ uname -a
 > Arch Linux and enough GPUs to keep Ollama happy
 ```
 
-<!-- ───────────────────────────  BUILD  ─────────────────────────── -->
-
-## `~/` what I build
-
-```diff
-+ Local AI command centers   FRIDAY. Agents, memory & automation on my own hardware
-+ Robotic systems            OpenClaw. Dual 6-DOF arms, ESP32-S3, real motion control
-+ Polished web tools         React/Next.js apps that look good and survive real traffic
-+ Automation infrastructure  Bots, pipelines & integrations that actually keep running
-```
-
-<!-- ───────────────────────────  OSS  ─────────────────────────── -->
-
-## `~/` open source
-
-| Project | What it is |
-|---------|------------|
-| [**Planter**](https://github.com/michaelpreciado/Planter) | Plant tracker PWA |
-| [**Photography Portfolio**](https://github.com/michaelpreciado/photography-portfolio) | Production portfolio site |
-
 <!-- ───────────────────────────  STUDY  ─────────────────────────── -->
 
 ## `~/` currently studying
