@@ -27,12 +27,23 @@ michael@friday:~$ uname -a
 
 <!-- ───────────────────────────  STUDY  ─────────────────────────── -->
 
-## `~/` currently studying
+## `~/` currently
 
-Currently learning ml at university and developing projects using llms.
+- Studying for an Undergraduate Certificate in Artificial Intelligence at Wilmington University
+- Running F.R.I.D.A.Y., my self-hosted multi-agent setup, on local GPUs
+- Training robot arm policies with LeRobot
 
-<div align="center">
+<!-- ───────────────────────────  BUILDS  ─────────────────────────── -->
 
-<br>
+## `~/builds` featured
 
-</div>
+| Build | What it is | Links |
+| --- | --- | --- |
+| **Mission Control** | Local-first dashboard for the AI agents behind F.R.I.D.A.Y.: status, approvals, tasks and costs | [code](https://github.com/michaelpreciado/preciado-tech-mission-control) |
+| **Preciado Mosaic** | Unsupervised learning you can watch: k-means rebuilds an image from a photo library | [live](https://preciado-mosaic.vercel.app) · [code](https://github.com/michaelpreciado/unsupervised-ml-project) |
+| **Planter** | Local-first plant care journal with on-device AI | [live](https://planter-ruddy.vercel.app) · [code](https://github.com/michaelpreciado/Planter) |
+| **CRT Interactive Album** | 3D photo album inside a CRT monitor, React Three Fiber with a custom shader | [live](https://cr-tinteractive-album.vercel.app) · [code](https://github.com/michaelpreciado/CRT-Photo-Album) |
+| **Orrery** | Interactive solar system with real orbits and GPU-generated planet surfaces | [live](https://interactive-solar-system-bay.vercel.app) · [code](https://github.com/michaelpreciado/solar-system-interactive) |
+| **OpenHome Pi Case** | 3D-printable enclosure for a Raspberry Pi 4 and OpenHome HAT | [code](https://github.com/michaelpreciado/openhome-pi-case-v1) |
+
+More builds and write-ups at **[michael-preciado.com](https://michael-preciado.com)**.
